@@ -94,3 +94,12 @@ The HTML report contains:
 -   Response details and assertions
 -   Failure trace 
 You can open the report in any browser.
+# 📌 Notes
+
+-   Make sure project run locally.
+    
+    
+----------
+
+## 👤 Author
+Md Sadiquzzaman
