@@ -10,24 +10,30 @@ This repository contains an automated UI test suite for **Transmediainc**, built
 ---
 
 ## 📁 Folder Structure
-Transmediainc-Automation/  
-├── pom.xml # Maven configuration and dependencies  
-├── testngSuite.xml # TestNG suite XML configuration  
-├── src/  
-│ ├── main/    
-│ └── test/  
-│ │ └── java/
-│ │ │  └── configuration/
-│ │ │  │  └── BasePage.java
-│ │ │  │  └── BaseTest.java 
-│ │ │  └── pages/
-│ │ │  │  └── BoardPage.java
-│ │ │  │  └── ListPage.java 
-│ │ │  └── testCases/
-│ │ │  │  └── BoardPageTestCase.java
-│ │ │  │  └── ListPageTestCase.java 
-│ │ │  └── utilities/
-│ │ │  │  └── Variables.java 
+
+    
+ 
+
+    Transmediainc-Automation/  
+    ├── pom.xml # Maven configuration and dependencies  
+    ├── testngSuite.xml # TestNG suite XML configuration  
+    ├── src/  
+    │ ├── main/    
+    │ └── test/  
+    │ │ └── java/
+    │ │ │  └── configuration/
+    │ │ │  │  └── BasePage.java
+    │ │ │  │  └── BaseTest.java 
+    │ │ │  └── pages/
+    │ │ │  │  └── BoardPage.java
+    │ │ │  │  └── ListPage.java 
+    │ │ │  └── testCases/
+    │ │ │  │  └── BoardPageTestCase.java
+    │ │ │  │  └── ListPageTestCase.java 
+    │ │ │  └── utilities/
+    │ │ │  │  └── Variables.java 
+
+
 
 ## ✅ Features
 
@@ -76,3 +82,5 @@ The automation test suite includes:
 ### 🔎 Open Allure Report
 
     allure open allure-report
+
+ 
